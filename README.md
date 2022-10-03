@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on https://pdap.io, security research (IoT, mobile, malware), and AI/ML<br>🧑🏻‍💻 I'm looking to collaborate with other security researchers and fellow neurodivergent engineers<br>🤝 I'd love help with AutoML, web-scraping, and amazing automation tools<br>🌱 Right now I'm learning to be a better Python developer to enhance my life, other's lives, and build better code<br>💬 Ask me about being an autistic engineer in the security industry<br>⚡️ Fun fact: My cats' names are two popular text editors<br><br>🏡 https://alecakin.com/about/
+🔭 I'm currently working on https://pdap.io, security research (IoT, mobile, malware), and AI/ML<br>🧑🏻‍💻 I'm looking to collaborate with other security researchers and fellow neurodivergent engineers<br>🤝 I'd love help with Data Munging, ML/AI, web-scraping, and amazing automation tools<br>🌱 Right now I'm learning to be a better Python developer to enhance my life, other's lives, and build better code<br>💬 Ask me about being an autistic engineer in the security industry<br>⚡️ Fun fact: My cats' names are two popular text editors<br><br>🏡 https://alecakin.com/about/
 
 
 ## 🌐 Socials:
